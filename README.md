@@ -72,8 +72,7 @@ AI_and_Drug_Discovery_Course_2026/
 ├── assignment_2_QSAR_data_curation.ipynb   
 ├── README.md                                 
 ├── bioactivity_raw_data.csv                  
-├── bioactivity_preprocessed_data.csv         
-└── assignment_summary.pdf                    
+├── bioactivity_preprocessed_data.csv                   
 ```
 
 ---
