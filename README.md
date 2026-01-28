@@ -69,11 +69,11 @@ This repository contains the QSAR data curation workflow for Assignment 2 of the
 ```
 AI_and_Drug_Discovery_Course_2026/
 │
-├── assignment_2_QSAR_data_curation.ipynb    # Main notebook
-├── README.md                                 # This file
-├── bioactivity_raw_data.csv                  # Raw ChEMBL data
-├── bioactivity_preprocessed_data.csv         # Curated dataset
-└── assignment_summary.pdf                    # One-page summary
+├── assignment_2_QSAR_data_curation.ipynb   
+├── README.md                                 
+├── bioactivity_raw_data.csv                  
+├── bioactivity_preprocessed_data.csv         
+└── assignment_summary.pdf                    
 ```
 
 ---
